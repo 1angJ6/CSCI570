@@ -1,2 +1,2 @@
 # CSCI570
-Note for CSCI570
+Notes for CSCI570
