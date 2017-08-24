@@ -38,3 +38,14 @@ _Gale Shapley algorithm_
 2. from men get engaged, and might be dropped. only to setle for a women with lower ranking.
 3. does stop after n^2 iterations
 4. perfect matching
+5. solution is a stable matching
+
+```
+Q: Did m propose to w' at some point in the execution of the algorithm
+
+if no, then w must higher than w' on his list => 矛盾
+
+if yes, he must have been rejected in favor of m'' and 
+```
+
+**step4**
