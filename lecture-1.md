@@ -31,4 +31,10 @@ intput
 output: no instability
 
 **step2**
-Gale Shapley algorithm
+_Gale Shapley algorithm_
+
+**step3**
+1. from the woman's perspective. she states single, and once she gets engaged she can only get into better engagements
+2. from men get engaged, and might be dropped. only to setle for a women with lower ranking.
+3. does stop after n^2 iterations
+4. perfect matching
