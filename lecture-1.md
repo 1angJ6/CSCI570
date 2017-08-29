@@ -52,4 +52,15 @@ if yes, he must have been rejected in favor of m'' and
 
 
 ### Discussion1
+bipartite graph
+
+1. matching
+
+a subset of eduges is a matching if no two deges have a common  vertex.
+
+2. Stabel matching problem
+
+a stable matching is a perfect matching with no unstable pairs.
+
+**Stable matching is always possible**
 
