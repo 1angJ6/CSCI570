@@ -34,7 +34,14 @@
 * Corollary: Every nontrivial tree has at least two vertices of degree 1. (Proof. handshake theorem)
 
 ## Graph traversals
-* DFS
-* BFS
+* DFS (stack)
+* BFS (queue)
+* ant colony optimization (shortest path)
+    * finding a shorest Hamiltonian cycle
+        * m ants are started at random nodes
+        * travel randomly, biased to the amount of dege-pheromone and edge-length
+        * an iteration ends when all the ants visit all nodes
+        * after each iteration, pheromone trails are updated
+        * solution gets better and better as the number of iterations increase
     
     
